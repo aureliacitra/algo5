@@ -6,3 +6,9 @@ int arr[20], B[20];
 int n;
 
 void input()
+{
+    while (true) {
+        cout << "Enter the number of elements in the array: ";
+        cin >> n;
+    }
+    
